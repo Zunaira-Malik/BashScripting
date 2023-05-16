@@ -1,0 +1,33 @@
+Warning: /home/kali/SIV/report1.txt size has changed (Old size: , New size: 21)
+Warning: /home/kali/SIV/report1.txt user/group has changed (Old user/group: /, New user/group: kali/kali)
+Warning: /home/kali/SIV/report1.txt access rights have changed (Old rights: , New rights: 644)
+Warning: /home/kali/SIV/report1.txt modification date has changed (Old date: , New date: 2023-01-24 22:43:44.825555595 -0500)
+Warning: /home/kali/SIV/report1.txt ownership has changed (Old user: , New user: kali) (Old group: , New group: kali)
+Warning: /home/kali/SIV/report1.txt access rights have changed (Old rights: , New rights: 644)
+Warning: /home/kali/SIV/report1.txt modification date has changed (Old date: , New date: 2023-01-24 22:43:44.825555595 -0500)
+Warning: 16 has been removed
+Warning: kali has been removed
+Warning: kali has been removed
+Warning: -rw-r--r-- has been removed
+Warning: 2023-01-24 22:05:31.530232998 -0500 has been removed
+Warning: SHA1(/home/kali/SIV/report1.txt)= a93c5b879ff41e862f6cf34af46e04fec376d12b has been removed
+Warning: /home/kali/SIV/report2.txt size has changed (Old size: , New size: 0)
+Warning: /home/kali/SIV/report2.txt user/group has changed (Old user/group: /, New user/group: kali/kali)
+Warning: /home/kali/SIV/report2.txt access rights have changed (Old rights: , New rights: 644)
+Warning: /home/kali/SIV/report2.txt modification date has changed (Old date: , New date: 2023-01-16 12:42:35.295626629 -0500)
+Warning: /home/kali/SIV/report2.txt ownership has changed (Old user: , New user: kali) (Old group: , New group: kali)
+Warning: /home/kali/SIV/report2.txt access rights have changed (Old rights: , New rights: 644)
+Warning: /home/kali/SIV/report2.txt modification date has changed (Old date: , New date: 2023-01-16 12:42:35.295626629 -0500)
+Warning: 0 has been removed
+Warning: kali has been removed
+Warning: kali has been removed
+Warning: -rw-r--r-- has been removed
+Warning: 2023-01-16 12:42:35.295626629 -0500 has been removed
+Warning: SHA1(/home/kali/SIV/report2.txt)= da39a3ee5e6b4b0d3255bfef95601890afd80709 has been removed
+Full pathname to monitored directory: /home/kali/SIV/report1.txt
+Full pathname to verification file: /home/kali/verification.txt
+Full pathname to report file: /home/kali/report.txt
+Number of directories parsed: 
+Number of files parsed: 
+Number of warnings issued: 
+Time to complete the verification mode: 0 seconds

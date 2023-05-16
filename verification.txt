@@ -1,0 +1,14 @@
+/home/kali/SIV/report1.txt
+16
+kali
+kali
+-rw-r--r--
+2023-01-24 22:05:31.530232998 -0500
+SHA1(/home/kali/SIV/report1.txt)= a93c5b879ff41e862f6cf34af46e04fec376d12b
+/home/kali/SIV/report2.txt
+0
+kali
+kali
+-rw-r--r--
+2023-01-16 12:42:35.295626629 -0500
+SHA1(/home/kali/SIV/report2.txt)= da39a3ee5e6b4b0d3255bfef95601890afd80709
